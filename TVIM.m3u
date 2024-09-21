@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT1" group-title="Ulusal", TRT1
+#EXTINF:-1 tvg-id="TRT1" tvg-logo="https://yt3.googleusercontent.com/BYKdhf9rXyAicCvBapQiD2HFIpKRUmrB5ZsnFVVJmdloEgiyy2Os37r3-4lESixGBXn5YkRN=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal", TRT1
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-id="Kanal7" group-title="Ulusal",,Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
