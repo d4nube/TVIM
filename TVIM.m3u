@@ -1,13 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT1" tvg-logo="https://yt3.googleusercontent.com/BYKdhf9rXyAicCvBapQiD2HFIpKRUmrB5ZsnFVVJmdloEgiyy2Os37r3-4lESixGBXn5YkRN=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal", TRT1
-https://tv-trt1.medya.trt.com.tr/master_480.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="Kanal7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal", Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
 #EXTINF:-1 tvg-id="Kanal8" tvg-logo="https://images.viaway.com/7462010_640.png" group-title="Ulusal", Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="TRT Haber" tvg-logo="https://logowik.com/content/uploads/images/trt-haber5539.jpg" group-title="Ulusal", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal", TV8
 https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
+
 #EXTINF:-1 tvg-id="HalkTV" tvg-logo="" group-title="Ulusal", Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
