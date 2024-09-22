@@ -14,8 +14,14 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal", TV8
 https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
 
-#EXTINF:-1 tvg-id="HalkTV" tvg-logo="" group-title="Ulusal", Halk TV
+#EXTINF:-1 tvg-id="HalkTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKij0MdIilNP9YJ7SgbMtBtdEFVbbC0pFahA&s" group-title="Ulusal", Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV" tvg-logo=" " group-title="Ulusal", Show TV
+#EXTINF:-1 tvg-id="ShowTV" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/0/03/Logo-ShowTV.svg/1200px-Logo-ShowTV.svg.png " group-title="Ulusal", Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062010/BEYAZ_TV_1.png?itok=UCx2VCQb " group-title="Ulusal", Beyaz TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="Haber Turk" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/5/58/Habert%C3%BCrktv.jpg/revision/latest?cb=20200525183426" group-title="Ulusal", Haber Turk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
