@@ -38,8 +38,10 @@ https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 
 #EXTINF:-1 tvg-id="ORF1" tvg-logo=" " group-title="Austria", ORF1
 https://s6.hopslan.com/orfx111/tracks-v1a1/mono.m3u8?token=639bd94efcaa1941b93e533272b2acbe13a89278-fb2a9341c8f29ee4d970f696a38b71f3-1727014381-1727003581
+https://s.hdtvizlecanli.com/orf1a.m3u8
 
-
+#EXTINF:-1 tvg-id="ServusTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYwXRPF_0w0FPXcCzzgjOkhP4GVoX6pPFiNQ&s" group-title="Austria", Servus TV
+https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8?token=54468ece6447a75e85197a63a33f2e2af5f14ecd-1f4abbb0b4121d5e0d39fd577c4f4264-1727014974-1727004174
 
 
 
