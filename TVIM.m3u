@@ -15,7 +15,7 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=UdHdds2OKFrcsZ3zRKrZ
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="CNN TURK" tvg-logo=" " group-title="Ulusal", CNN TURK
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=Y_4ZFkILkwxPmPGnjtZn8A&e=1727019686
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8?&live=true&app=com.cnnturk&st=Y_4ZFkILkwxPmPGnjtZn8A&e=1727019686
 
 #EXTINF:-1 tvg-id="Kanal7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal", Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
