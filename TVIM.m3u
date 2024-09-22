@@ -8,6 +8,9 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Tgrt_haber_2014.png/revision/latest?cb=20211118151749" group-title="Ulusal", TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
+#EXTINF:-1 tvg-id="A Haber" tvg-logo=" " group-title="Ulusal", AHABER
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727030123/ei/Cw_wZqm2A4emi9oP0qSBgAY/ip/86.107.43.88/id/ZHIPH7ALzJ4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51250688/txs/51250684%2C51250685%2C51250686%2C51250687%2C51250688/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxYQt7zulUzKYvVKfSPH0mXykYgqmiE8NzL4grl9mXOuOSY4P5gap-q9i_To/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIbkBe5KK4NbXXs5dqL-QK8NFf0e2giFXvA3pcjWeeSvAiBJE8Ei7JuH7TcVYMnGJwoUJJ1Jagu1UZLVqgsGPIraCQ%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="Haber Turk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Ulusal", Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
