@@ -36,6 +36,10 @@ https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 
 
+#EXTINF:-1 tvg-id="ORF1" tvg-logo=" " group-title="Austria", ORF1
+https://s6.hopslan.com/orfx111/tracks-v1a1/mono.m3u8?token=639bd94efcaa1941b93e533272b2acbe13a89278-fb2a9341c8f29ee4d970f696a38b71f3-1727014381-1727003581
+
+
 
 
 
