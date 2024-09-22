@@ -8,11 +8,14 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Tgrt_haber_2014.png/revision/latest?cb=20211118151749" group-title="Ulusal", TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-id="A Haber" tvg-logo=" " group-title="Ulusal", AHABER
-https://yt3.ggpht.com/J-MO0c7Y8sVJMemkFBfwtZVWWxMYwFw7fugyCj9eyHUNFMEpPSGiSNgG8nehOw0vuvBD0qgTEg,2024-08-24T07:00:45.885Z
+#EXTINF:-1 tvg-id="A Haber" tvg-logo="https://w7.pngwing.com/pngs/888/698/png-transparent-turkey-a-haber-news-a-spor-trt-haber-dijital-television-text-logo-thumbnail.png" group-title="Ulusal", A HABER
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=UdHdds2OKFrcsZ3zRKrZSA&e=1727053996
 
 #EXTINF:-1 tvg-id="Haber Turk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Ulusal", Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="CNN TURK" tvg-logo=" " group-title="Ulusal", CNN TURK
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=Y_4ZFkILkwxPmPGnjtZn8A&e=1727019686
 
 #EXTINF:-1 tvg-id="Kanal7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal", Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
