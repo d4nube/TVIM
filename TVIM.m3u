@@ -2,14 +2,32 @@
 #EXTINF:-1 tvg-id="TRT1" tvg-logo="https://yt3.googleusercontent.com/BYKdhf9rXyAicCvBapQiD2HFIpKRUmrB5ZsnFVVJmdloEgiyy2Os37r3-4lESixGBXn5YkRN=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal", TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="TRT Haber" tvg-logo="https://logowik.com/content/uploads/images/trt-haber5539.jpg" group-title="Ulusal", TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TGRT Haber" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Tgrt_haber_2014.png/revision/latest?cb=20211118151749" group-title="Ulusal", TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-id="Haber Turk" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/5/58/Habert%C3%BCrktv.jpg/revision/latest?cb=20200525183426" group-title="Ulusal", Haber Turk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
 #EXTINF:-1 tvg-id="Kanal7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal", Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:-1 tvg-id="Kanal8" tvg-logo="https://images.viaway.com/7462010_640.png" group-title="Ulusal", Kanal 7 Avrupa
+#EXTINF:-1 tvg-id="Kanal 7 Avrupa" tvg-logo="https://images.viaway.com/7462010_640.png" group-title="Ulusal", Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TRT Haber" tvg-logo="https://logowik.com/content/uploads/images/trt-haber5539.jpg" group-title="Ulusal", TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="ShowTV" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/0/03/Logo-ShowTV.svg/1200px-Logo-ShowTV.svg.png " group-title="Ulusal", Show TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="STARTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2msNk41h0qZ8hrjpYAZfwzR4Du9J_EAFzg&s" group-title="Ulusal", STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+#EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal", Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062010/BEYAZ_TV_1.png?itok=UCx2VCQb " group-title="Ulusal", Beyaz TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal", TV8
 https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
@@ -17,11 +35,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
 #EXTINF:-1 tvg-id="HalkTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKij0MdIilNP9YJ7SgbMtBtdEFVbbC0pFahA&s" group-title="Ulusal", Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/0/03/Logo-ShowTV.svg/1200px-Logo-ShowTV.svg.png " group-title="Ulusal", Show TV
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Beyaz TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062010/BEYAZ_TV_1.png?itok=UCx2VCQb " group-title="Ulusal", Beyaz TV 
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Haber Turk" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/5/58/Habert%C3%BCrktv.jpg/revision/latest?cb=20200525183426" group-title="Ulusal", Haber Turk
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+
