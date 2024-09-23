@@ -15,7 +15,7 @@ http://185.150.130.123:8000/play/str107
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="CNN TURK" tvg-logo="https://e7.pngegg.com/pngimages/145/808/png-clipart-logo-turkey-cnn-turk-font-cnn-games-text-logo-thumbnail.png" group-title="Ulusal", CNN TURK
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8?&live=true&app=com.cnnturk&st=qW3B0M-ebVfghZdJgoZGAA&e=1727105994
+https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Ulusal", NTV
 https://cdn404.canlitv.me/ntv720-691732.ts?tkn=qHU4KKp-e1usOhPbfGppdw&tms=1727111867&hst=www.canlitv.me&ip=217.13.183.251
