@@ -23,11 +23,23 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="Kanal 7 Avrupa" tvg-logo="https://images.viaway.com/7462010_640.png" group-title="Ulusal", Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1727139370&st=Mvc4rB39L5GprtvbFmm__A&sid=6rky40sfqziu&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+
+#EXTINF:-1 tvg-id="ATV Avrupa" tvg-logo="https://www.meinfernsehen.de/wp-content/uploads/2024/09/atv_avrupa.png" group-title="Ulusal", ATV Avrupa
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=PZE40U2bmqVblLHSYk6omQ&e=1727138887&SessionID=dfsotqq3ite3ibexbgfuifv2&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
+
 #EXTINF:-1 tvg-id="ShowTV" tvg-logo="https://logowik.com/content/uploads/images/253_showtv.jpg" group-title="Ulusal", Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
+#EXTINF:-1 tvg-id="ShowTV Turk" tvg-logo="https://logowik.com/content/uploads/images/253_showtv.jpg" group-title="Ulusal", Show TV Turk
+https://ciner-live.ercdn.net/showturk/showturk_576p.m3u8?e=1727101508&st=SMg8t1W1xDzFfI9HdXKHUw&tv=1
+
 #EXTINF:-1 tvg-id="STARTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2msNk41h0qZ8hrjpYAZfwzR4Du9J_EAFzg&s" group-title="Ulusal", STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+#EXTINF:-1 tvg-id="EuroStar" tvg-logo="https://www.eurostartv.com.tr/Content/img/eurostar-logo.png" group-title="Ulusal", Euro Star
+https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=E2wqRPyzsvgw58TvyGCpLQ&e=1727180814
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal", Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
