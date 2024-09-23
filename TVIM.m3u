@@ -41,7 +41,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
 #EXTINF:-1 tvg-id="NOW TV" tvg-logo="https://seeklogo.com/images/N/now-tv-turkey-logo-984E6CE0AA-seeklogo.com.png" group-title="Ulusal", NOW TV  
 https://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Kanal S" tvg-logo="" group-title="Ulusal", Kanal S
+#EXTINF:-1 tvg-id="Kanal S" tvg-logo="https://www.kanals.com.tr/wp-content/uploads/2023/08/logo1.png" group-title="Ulusal", Kanal S
 https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w951132791.m3u8
 
 #EXTINF:-1 tvg-id="TGRT Belgesel" tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="Ulusal", TGRT Belgesel
@@ -52,6 +52,9 @@ https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 
 #EXTINF:-1 tvg-id="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Ulusal", TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRT Spor" tvg-logo="https://www.canlitv.me/poster/a-spor-izle-3.png" group-title="Ulusal", TRT Spor
+https://cdn7.canlitv.me/aspor.m3u8?tkn=9u_GMFkSUI5IYD19GghBbA&tms=1727104401&hst=www.canlitv.me&ip=217.13.183.251
 
 
 
