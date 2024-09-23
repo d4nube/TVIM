@@ -8,14 +8,17 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xzdeObEEhjq5z8iZ3irMF97IMjVpk1m7Gg&s" group-title="Ulusal", TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-id="A Haber" tvg-logo="https://w7.pngwing.com/pngs/888/698/png-transparent-turkey-a-haber-news-a-spor-trt-haber-dijital-television-text-logo-thumbnail.png" group-title="Ulusal", A HABER
-ttps://ecanlitv3.etvserver.com/ahaber.m3u8?tkn=uxUek7O_rWhB6TT-L1OXsA&tms=1727016519
+#EXTINF:-1 tvg-id="A Haber" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Ulusal", A HABER
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=izxCeWo7z1HlD5H2c79-EA&e=1727140276
 
 #EXTINF:-1 tvg-id="Haber Turk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Ulusal", Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="CNN TURK" tvg-logo=" " group-title="Ulusal", CNN TURK
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=ZZIK9bLZMHKxcuz-anDQzw&e=1727097398
+#EXTINF:-1 tvg-id="CNN TURK" tvg-logo="https://e7.pngegg.com/pngimages/145/808/png-clipart-logo-turkey-cnn-turk-font-cnn-games-text-logo-thumbnail.png" group-title="Ulusal", CNN TURK
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8?&live=true&app=com.cnnturk&st=qW3B0M-ebVfghZdJgoZGAA&e=1727105994
+
+#EXTINF:-1 tvg-id="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Ulusal", NTV
+https://cdn404.canlitv.me/ntv720-691732.ts?tkn=qHU4KKp-e1usOhPbfGppdw&tms=1727111867&hst=www.canlitv.me&ip=217.13.183.251
 
 #EXTINF:-1 tvg-id="Kanal7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal", Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -62,6 +65,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 #EXTINF:-1 tvg-id="HalkTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKij0MdIilNP9YJ7SgbMtBtdEFVbbC0pFahA&s" group-title="Ulusal", Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 
+#EXTINF:-1 tvg-id="Sözcü TV" tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png" group-title="Ulusal", Sözcü TV
+https://cdn900.canlitv.me/sozcutv.m3u8?tkn=Utv0zf-Wok-1_BeNMN37hw&tms=1727112276&hst=www.canlitv.me&ip=217.13.183.250
+
 #EXTINF:-1 tvg-id="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Ulusal", TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
@@ -70,12 +76,29 @@ https://cdn404.canlitv.me/aspor360.m3u8?tkn=oTM4rKCc8ZQRZO3xQgr68g&tms=172710464
 
 
 
-#EXTINF:-1 tvg-id="ORF1" tvg-logo="https://nydus.org/stream/img/logo/orf-1.png" group-title="Austria", ORF1
-https://s6.hopslan.com/orfx1/tracks-v1a1/mono.m3u8?token=6f163b472cd36d5703e633524a27f58bc12cd11d-22625dc8fb6f856dfab941943a8b648b-1727017441-1727006641
+
+#EXTINF:-1 tvg-id="ORF1" tvg-logo="https://www.livestreamde.com/uploads/kanal/27739orf1-live.png" group-title="Austria", ORF1
+https://s.hdtvizlecanli.com/orf1a.m3u8
+
+#EXTINF:-1 tvg-id="ORF2" tvg-logo="https://www.livestreamde.com/uploads/kanal/20435orf2-live.png" group-title="Austria", ORF2
+https://stream.hdtvizlecanli.com/orf2.m3u8
 
 #EXTINF:-1 tvg-id="ServusTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYwXRPF_0w0FPXcCzzgjOkhP4GVoX6pPFiNQ&s" group-title="Austria", Servus TV
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8?token=54468ece6447a75e85197a63a33f2e2af5f14ecd-1f4abbb0b4121d5e0d39fd577c4f4264-1727014974-1727004174
 
 #EXTINF:-1 tvg-id="OE24" tvg-logo="https://oesterreichprogramm.at/wp-content/uploads/2024/03/senderlogo-oesterreichprogramm-oe24.jpg" group-title="Austria", OE24
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-avc1_3400000=10003.m3u8
+
+#EXTINF:-1 tvg-id="PRO7" tvg-logo="https://w7.pngwing.com/pngs/478/324/png-transparent-prosieben-2015-hd-logo.png" group-title="Austria", PRO7
+https://s.hdtvizlecanli.com/pro7a.m3u8
+
+#EXTINF:-1 tvg-id="RTL" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2021/06/rtl-logo.jpg" group-title="Austria", RTL
+https://s.hdtvizlecanli.com/rtl.m3u8
+
+#EXTINF:-1 tvg-id="Kabel1" tvg-logo="https://seeklogo.com/images/K/kabel-eins-logo-80C1CE6F1D-seeklogo.com.png" group-title="Austria", Kabel 1
+https://s.hdtvizlecanli.com/kabel1a.m3u8
+
+#EXTINF:-1 tvg-id="SuperRTL" tvg-logo="https://www.digitalfernsehen.de/wp-content/uploads/2020/01/SuperRTL2.jpg" group-title="Austria", SuperRTL
+https://stream.hdtvizlecanli.com/superrtl2.m3u8
+
 
