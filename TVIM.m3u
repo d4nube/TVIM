@@ -44,10 +44,15 @@ https://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kanal S" tvg-logo="" group-title="Ulusal", Kanal S
 https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w951132791.m3u8
 
+#EXTINF:-1 tvg-id="TGRT Belgesel" tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="Ulusal", TGRT Belgesel
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
+
 #EXTINF:-1 tvg-id="HalkTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKij0MdIilNP9YJ7SgbMtBtdEFVbbC0pFahA&s" group-title="Ulusal", Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 
-#EXTINF:-1 tvg-id="NOW TV" tvg-logo="" group-title="Ulusal", NOW TV
+#EXTINF:-1 tvg-id="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Ulusal", TRT Diyanet Cocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ORF1" tvg-logo="https://nydus.org/stream/img/logo/orf-1.png" group-title="Austria", ORF1
@@ -56,7 +61,6 @@ https://s6.hopslan.com/orfx1/tracks-v1a1/mono.m3u8?token=6f163b472cd36d5703e6335
 #EXTINF:-1 tvg-id="ServusTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYwXRPF_0w0FPXcCzzgjOkhP4GVoX6pPFiNQ&s" group-title="Austria", Servus TV
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8?token=54468ece6447a75e85197a63a33f2e2af5f14ecd-1f4abbb0b4121d5e0d39fd577c4f4264-1727014974-1727004174
 
-
-#EXTINF:-1 tvg-id="OE24" tvg-logo=" " group-title="Austria", OE24
-
+#EXTINF:-1 tvg-id="OE24" tvg-logo="https://oesterreichprogramm.at/wp-content/uploads/2024/03/senderlogo-oesterreichprogramm-oe24.jpg" group-title="Austria", OE24
+https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-avc1_3400000=10003.m3u8
 
