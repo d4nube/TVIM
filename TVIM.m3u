@@ -74,6 +74,9 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT Spor" tvg-logo="https://www.canlitv.me/poster/a-spor-izle-3.png" group-title="Ulusal", TRT Spor
 https://cdn404.canlitv.me/aspor360.m3u8?tkn=oTM4rKCc8ZQRZO3xQgr68g&tms=1727104648&hst=www.canlitv.me&ip=217.13.183.250
 
+#EXTINF:-1 tvg-id="A Spor" tvg-logo="https://grafiport.com/logolar/2015/03/16/jpg/a-spor_byuek.jpg" group-title="Ulusal", A Spor
+https://proxy.canlitvplayer.com/bozztv.com/inim03/live1/aspor/chunks.m3u8
+
 
 
 
