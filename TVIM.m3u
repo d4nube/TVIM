@@ -27,7 +27,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1727178268&st=cBPxrKFQj0bw71I4m49l-w&sid=6rmjxzbckkym&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-logo="https://www.meinfernsehen.de/wp-content/uploads/2024/09/atv_avrupa.png" group-title="Ulusal", ATV Avrupa
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=PZE40U2bmqVblLHSYk6omQ&e=1727138887&SessionID=dfsotqq3ite3ibexbgfuifv2&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
@@ -66,13 +66,13 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 
 #EXTINF:-1 tvg-id="Sözcü TV" tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png" group-title="Ulusal", Sözcü TV
-https://cdn900.canlitv.me/sozcutv.m3u8?tkn=Utv0zf-Wok-1_BeNMN37hw&tms=1727112276&hst=www.canlitv.me&ip=217.13.183.250
+https://proxy.canlitvplayer.com/szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Ulusal", TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-logo="https://www.canlitv.me/poster/a-spor-izle-3.png" group-title="Ulusal", TRT Spor
-https://cdn404.canlitv.me/aspor360.m3u8?tkn=oTM4rKCc8ZQRZO3xQgr68g&tms=1727104648&hst=www.canlitv.me&ip=217.13.183.250
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="A Spor" tvg-logo="https://grafiport.com/logolar/2015/03/16/jpg/a-spor_byuek.jpg" group-title="Ulusal", A Spor
 https://proxy.canlitvplayer.com/bozztv.com/inim03/live1/aspor/chunks.m3u8
