@@ -9,7 +9,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-id="A Haber" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Ulusal", A HABER
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727184280/ei/OGnyZv-WB-3Ki9oPmMfYkAw/ip/217.13.183.250/id/ZHIPH7ALzJ4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51290434/txs/51290434%2C51290435%2C51290436%2C51290437%2C51290438%2C51290439/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54Mbxd7YfFuPYLxgIlfoiMKJGxigL0czQ6RN-TMOCOZjvdV9QIeafwuTXuuuiRBazw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM0MK_IH4M_Yhx-ewVD-S5BMnKQw76lXxEatec0aWVioAiEAk4eHIBmpHcu_sRrAgPmZq4nsJPE2pVDhfcQtRdILHw4%3D/file/index.m3u8
+https://youtu.be/ZHIPH7ALzJ4
 
 #EXTINF:-1 tvg-id="Haber Turk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Ulusal", Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
