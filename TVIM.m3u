@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TRT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png?20170401134107" group-title="Ulusal", TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRT Haber" tvg-logo="https://commons.wikimedia.org/wiki/File:TRT_Haber_logosu_(2013-2020).png" group-title="Ulusal", TRT Haber
+#EXTINF:-1 tvg-id="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/TRT_Haber_kurumsal_logo_%282013-2020%29.png" group-title="Ulusal", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xzdeObEEhjq5z8iZ3irMF97IMjVpk1m7Gg&s" group-title="Ulusal", TGRT Haber
