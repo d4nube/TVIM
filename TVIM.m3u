@@ -51,7 +51,10 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal", TV8
-https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
+http://hw1.jemtv.com/app/tv8/playlist.m3u8
+
+#EXTINF:-1 group-title=TR tvg-id="TV85.tr" tvg-name="TV 85" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
+http://hw1.jemtv.com/app/tv85/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NOW TV" tvg-logo="https://seeklogo.com/images/N/now-tv-turkey-logo-984E6CE0AA-seeklogo.com.png" group-title="Ulusal", NOW TV  
 https://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
@@ -74,8 +77,11 @@ https://proxy.canlitvplayer.com/szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000
 #EXTINF:-1 tvg-id="TVNET"tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png"  group-title="Ulusal",TV NET
 http://stream.tvcdn.net/haber/tvnet.m3u8
 
-#EXTINF:-1 tvg-id="DMAX"tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png"  group-title="Ulusal",DMAX
+#EXTINF:-1 tvg-id="DMAX"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png"  group-title="Ulusal",DMAX
 http://stream.tvcdn.net/eglence/dmax.m3u8
+
+#EXTINF:-1 type="stream"  group-title="Ulusal" logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png", Diyanet TV
+http://stream.tvcdn.net/dini/diyanet-tv.m3u8
 
 #EXTINF:-1 tvg-id="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Ulusal", TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
@@ -131,5 +137,8 @@ http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103254.ts
 
 #EXTINF:-1 group-title=TR tvg-id="NBC NEWS" tvg-logo="" ,NBC NEWS
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/1718144012898item-08item_Segment-2315373.mp4
+
+#EXTINF:-1 group-title=TR tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN 1
+http://sstv1011.xyz:8080/kubifb/n97cCHn36S/452750
 
 
