@@ -18,7 +18,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 http://62.210.88.161/gin-dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Ulusal", NTV
-https://cdn404.canlitv.me/ntv720-691732.ts?tkn=qHU4KKp-e1usOhPbfGppdw&tms=1727111867&hst=www.canlitv.me&ip=217.13.183.251
+http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal", Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -71,6 +71,9 @@ https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 #EXTINF:-1 tvg-id="Sözcü TV" tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png" group-title="Ulusal", Sözcü TV
 https://proxy.canlitvplayer.com/szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
 
+#EXTINF:-1 tvg-id="TVNET"tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png"  group-title="Ulusal",TV NET
+http://stream.tvcdn.net/haber/tvnet.m3u8
+
 #EXTINF:-1 tvg-id="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Ulusal", TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
@@ -110,4 +113,11 @@ https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8?token=92c47288e458b231ae9e
 #EXTINF:-1 tvg-id="SuperRTL" tvg-logo="https://www.digitalfernsehen.de/wp-content/uploads/2020/01/SuperRTL2.jpg" group-title="Austria", SuperRTL
 https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=2861c34d3eb6cea86cdc8978ce92347e93e73b9f-fa5ec4f51519501533148efc1a58caea-1727111544-1727100744
 
+
+#EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+http://mt0811.xyz:8080/frht9488/VVYdYz8gSSuk/126272
+#EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+http://sstv1011.xyz:8080/live/kubifb/n97cCHn36S/190072.ts
+#EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103254.ts
 
