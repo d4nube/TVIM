@@ -72,7 +72,7 @@ https://proxy.canlitvplayer.com/szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-logo="https://www.canlitv.me/poster/a-spor-izle-3.png" group-title="Ulusal", TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+https://proxy.canlitvplayer.com/bozztv.com/inim03/live1/trtspor/chunks.m3u8
 
 #EXTINF:-1 tvg-id="A Spor" tvg-logo="https://grafiport.com/logolar/2015/03/16/jpg/a-spor_byuek.jpg" group-title="Ulusal", A Spor
 https://proxy.canlitvplayer.com/bozztv.com/inim03/live1/aspor/chunks.m3u8
