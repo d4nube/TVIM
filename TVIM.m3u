@@ -27,7 +27,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV
-https://trkvz-live.daioncdn.net/atv/atv_1080p-1727133500000.ts?e=1727178268&st=cBPxrKFQj0bw71I4m49l-w
+https://proxy.canlitvplayer.com/bozztv.com/inim03/live1/atv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-logo="https://www.meinfernsehen.de/wp-content/uploads/2024/09/atv_avrupa.png" group-title="Ulusal", ATV Avrupa
 https://yayin2.canlitv.fun/live/atv.stream/chunklist_w295869798.m3u8?hash=3116b7ac3dbe2a8ebaf906e351f4cb57
