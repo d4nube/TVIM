@@ -36,7 +36,7 @@ http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV Turk" tvg-logo="https://logowik.com/content/uploads/images/253_showtv.jpg" group-title="Ulusal", Show TV Turk
-https://showturk.blutv.com/blutv_showturk2/live.m3u8
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
 
 #EXTINF:-1 tvg-id="STARTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2msNk41h0qZ8hrjpYAZfwzR4Du9J_EAFzg&s" group-title="Ulusal", STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
