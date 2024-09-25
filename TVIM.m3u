@@ -77,6 +77,15 @@ https://proxy.canlitvplayer.com/szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000
 #EXTINF:-1 tvg-id="TVNET"tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png"  group-title="Ulusal",TV NET
 http://stream.tvcdn.net/haber/tvnet.m3u8
 
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Ulusal",TV 100
+http://stream.tvcdn.net/ulusal/tv-100.m3u8
+
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="Ulusal",24 TV
+http://stream.tvcdn.net/haber/24-tv.m3u8
+
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Ulusal",TLC
+http://stream.tvcdn.net/eglence/tlc.m3u8
+
 #EXTINF:-1 tvg-id="DMAX"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png"  group-title="Ulusal",DMAX
 http://stream.tvcdn.net/eglence/dmax.m3u8
 
