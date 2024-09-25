@@ -138,3 +138,6 @@ http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103254.ts
 #EXTINF:-1 tvg-id="TEST1"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST YU
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 
+#EXTINF:-1 tvg-id="TEST21"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST YU22
+plugin://plugin.video.orftvthek/pvr/orf1
+
