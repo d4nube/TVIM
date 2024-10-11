@@ -147,14 +147,17 @@ https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=2861c34d3eb6cea86cdc8
 
 
 
+
+
 #EXTINF:-1 tvg-id="beINSPORTS1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" ,beIN SPORTS 1
 http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103254.ts
-#EXTINF:-1 tvg-id="beINSPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Spor" ,beIN SPORTS 2
+#EXTINF:-1 tvg-id="beINSPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Spor", beIN SPORTS 2
 https://fragrant-dream-aad1.cc12bb13dd14aa15.workers.dev/yayinb2.m3u8
-#EXTINF:-1 tvg-id="beINSPORTS3"  tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="Spor" ,beIN SPORTS 3
+#EXTINF:-1 tvg-id="beINSPORTS3"  tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="Spor", beIN SPORTS 3
 https://fragrant-dream-aad1.cc12bb13dd14aa15.workers.dev/yayinb3.m3u8
-#EXTINF:-1 tvg-id="beINSPORTS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Spor" ,beIN SPORTS 4
+#EXTINF:-1 tvg-id="beINSPORTS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Spor", beIN SPORTS 4
 https://fragrant-dream-aad1.cc12bb13dd14aa15.workers.dev/yayinb4.m3u8
+
 
 
 
