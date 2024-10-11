@@ -153,38 +153,38 @@ https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=2861c34d3eb6cea86cdc8
 
 #EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" ,beIN SPORTS 1
 https://tayland.canlimachd10.site/hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Spor",A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="https://htsolutions.at/wp-content/uploads/2022/02/Symbol_HT_Solutions_mint.png" group-title="Spor",HT SPOR HD
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",TİVİBU SPOR HD
 http://vip.torktv.org:2095/live/grhn9626/gr00/100384.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART HD" tvg-logo="" group-title="Spor",SPOR SMART HD
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="Spor",SPOR SMART HD
 http://vip.torktv.org:2095/live/grhn9626/gr00/6396.ts
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT" tvg-logo="" group-title="Spor",S SPORT
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="Spor",S SPORT
 http://tv.challenge.tn:2052/live/49459551/72609676/266394.ts
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="" group-title="Spor",S SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/800px-S_Sport_Plus_Logo.png" group-title="Spor",S SPORT 2
 http://vip.torktv.org:2095/live/grhn9626/gr00/6389.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="" group-title="Spor",BEİN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1
 http://tv.challenge.tn:2052/live/49459551/72609676/266321.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="" group-title="Spor",BEİN SPORTS 1 ALTERNATİF
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1 ALTERNATİF
 http://tv.challenge.tn:2052/live/49459551/72609676/266322.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2" tvg-logo="" group-title="Spor",BEİN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/BeIN_Sports_2_%282014%29.png" group-title="Spor",BEİN SPORTS 2
 http://tv.challenge.tn:2052/live/49459551/72609676/266323.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3" tvg-logo="" group-title="Spor",BEİN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_3_France.png" group-title="Spor",BEİN SPORTS 3
 http://tv.challenge.tn:2052/live/49459551/72609676/266324.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" group-title="Spor",BEİN SPORTS 1 HD
 http://vip.torktv.org:2095/live/grhn9626/gr00/5849.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/BeIN_Sports_2_%282014%29.png" group-title="Spor",BEİN SPORTS 2 HD
 http://vip.torktv.org:2095/live/grhn9626/gr00/104794.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_3_France.png" group-title="Spor",BEİN SPORTS 3 HD
 http://vip.torktv.org:2095/live/grhn9626/gr00/5858.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 4 HD
 http://vip.torktv.org:2095/live/grhn9626/gr00/5861.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1" tvg-logo="" group-title="Spor",BEİN SPORTS MAX 1
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS MAX 1
 http://vip.torktv.org:2095/live/grhn9626/gr00/5864.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="" group-title="Spor",BEİN SPORTS MAX 2
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS MAX 2
 http://vip.torktv.org:2095/live/grhn9626/gr00/5865.ts
 
 
