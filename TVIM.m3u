@@ -104,9 +104,10 @@ http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:-1 tvg-id="A Spor" tvg-logo="https://grafiport.com/logolar/2015/03/16/jpg/a-spor_byuek.jpg" group-title="Ulusal", A Spor
 http://stream.tvcdn.net/spor/a-spor.m3u8
 
-#EXTINF:-1 tvg-id="BluTV Play1" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg"  group-title="Ulusal" ,BLU TV PLAY 1
+
+#EXTINF:-1 tvg-id="BluTV Play1" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg" group-title="Ulusal", BLU TV PLAY 1
 https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BluTv Play2" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg"  group-title="Ulusal" ,BLU TV PLAY 2
+#EXTINF:-1 tvg-id="BluTv Play2" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg" group-title="Ulusal", BLU TV PLAY 2
 https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein Movies Premiere HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/BeIN_MOVIES_Premiere_HD_2018_logo.png/revision/latest?cb=20200829071403"  group-title="Ulusal",BEİN MOVİES PREMİERE HD
 http://vip.torktv.org:2095/live/grhn9626/gr00/6451.ts
