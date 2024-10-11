@@ -146,12 +146,18 @@ https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8?token=92c47288e458b231ae9e
 https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=2861c34d3eb6cea86cdc8978ce92347e93e73b9f-fa5ec4f51519501533148efc1a58caea-1727111544-1727100744
 
 
-#EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-http://mt0811.xyz:8080/frht9488/VVYdYz8gSSuk/126272
-#EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-http://sstv1011.xyz:8080/live/kubifb/n97cCHn36S/190072.ts
-#EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+
+#EXTINF:-1 tvg-id="beINSPORTS1" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" ,beIN SPORTS 1
 http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103254.ts
+#EXTINF:-1 tvg-id="beINSPORTS2" tvg-name="beIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Spor" ,beIN SPORTS 2
+https://fragrant-dream-aad1.cc12bb13dd14aa15.workers.dev/yayinb2.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS3" tvg-name="beIN SPORTS 1" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="Spor" ,beIN SPORTS 3
+https://fragrant-dream-aad1.cc12bb13dd14aa15.workers.dev/yayinb3.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS4" tvg-name="beIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Spor" ,beIN SPORTS 4
+https://fragrant-dream-aad1.cc12bb13dd14aa15.workers.dev/yayinb4.m3u8
+
+
+
 
 
 
