@@ -101,6 +101,20 @@ http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:-1 tvg-id="A Spor" tvg-logo="https://grafiport.com/logolar/2015/03/16/jpg/a-spor_byuek.jpg" group-title="Ulusal", A Spor
 http://stream.tvcdn.net/spor/a-spor.m3u8
 
+#EXTINF:-1 tvg-id="BluTV Play1" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg"  group-title="Ulusal" ,BLU TV PLAY 1
+https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BluTv Play2" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg"  group-title="Ulusal" ,BLU TV PLAY 2
+https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein Movies Premiere HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/BeIN_MOVIES_Premiere_HD_2018_logo.png/revision/latest?cb=20200829071403"  group-title="Ulusal",BEİN MOVİES PREMİERE HD
+http://vip.torktv.org:2095/live/grhn9626/gr00/6451.ts
+#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/BeIN_MOVIES_Stars-HD.png"  group-title="Ulusal",BEİN MOVİES STARS HD
+http://vip.torktv.org:2095/live/grhn9626/gr00/6453.ts
+#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://mediapool-content.de/wp-content/uploads/senderlogos/48.png"  group-title="Ulusal",BEİN MOVİES TÜRK HD
+http://vip.torktv.org:2095/live/grhn9626/gr00/6454.ts
+#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/MOVIESMART%20TURK.png"  group-title="Ulusal",MOVİE SMART TÜRK HD
+http://vip.torktv.org:2095/live/grhn9626/gr00/6461.ts
+#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://mediapool-content.de/wp-content/uploads/senderlogos/10189.png" group-title="Ulusal",MOVİE SMART CLASSİC HD
+http://vip.torktv.org:2095/live/grhn9626/gr00/6458.ts
 
 
 
@@ -141,22 +155,14 @@ http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103254.ts
 #EXTINF:-1 tvg-id="TEST1"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST YU
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 
-#EXTINF:-1 tvg-id="TEST2"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",Tiivturk
+#EXTINF:-1 tvg-id="TiviTurk"tvg-logo="https://seeklogo.com/images/T/ttnet-tivibu-logo-E2960601D7-seeklogo.com.png"  group-title="TEST",Tiivturk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:-1 tvg-id="TEST3"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST" ,BLU TV PLAY 1
+#EXTINF:-1 tvg-id="BluTV Play1" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg"  group-title="TEST" ,BLU TV PLAY 1
 https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",BLU TV PLAY 2
+#EXTINF:-1 tvg-id="BluTv Play2" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg"  group-title="TEST",BLU TV PLAY 2
 https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",BEİN MOVİES ACTİON HD
+#EXTINF:-1 tvg-id="BeinMovie Action"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",BEİN MOVİES ACTİON HD
 http://ege.vipsat.net:2086/live/sezerminks/17032017wgh/2492.ts
-#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",BEİN MOVİES PREMİERE HD
-http://vip.torktv.org:2095/live/grhn9626/gr00/6451.ts
-#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",BEİN MOVİES STARS HD
-http://vip.torktv.org:2095/live/grhn9626/gr00/6453.ts
-#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",BEİN MOVİES TÜRK HD
-http://vip.torktv.org:2095/live/grhn9626/gr00/6454.ts
-#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",MOVİE SMART TÜRK HD
-http://vip.torktv.org:2095/live/grhn9626/gr00/6461.ts
-#EXTINF:-1 tvg-id="TEST4"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",MOVİE SMART CLASSİC HD
-http://vip.torktv.org:2095/live/grhn9626/gr00/6458.ts
+
+
