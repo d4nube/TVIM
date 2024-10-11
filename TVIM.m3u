@@ -83,6 +83,9 @@ http://stream.tvcdn.net/ulusal/tv-100.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="Ulusal",24 TV
 http://stream.tvcdn.net/haber/24-tv.m3u8
 
+#EXTINF:-1 TRT Belgesel, tvg-logo="https://i.imgur.com/9lW0TV2.png" group-title="Ulusal", TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Ulusal",TLC
 http://stream.tvcdn.net/eglence/tlc.m3u8
 
