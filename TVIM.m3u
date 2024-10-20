@@ -98,6 +98,9 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT Diyanet" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="Ulusal", TRT Diyanet
 http://stream.tvcdn.net/dini/diyanet-tv.m3u8
 
+#EXTINF:-1 tvg-id="TRT 2" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Ulusal", TRT 2
+http://stream.tvcdn.net/eglence/trt-2.m3u8
+
 #EXTINF:-1 tvg-id="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Ulusal", TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
@@ -155,7 +158,7 @@ https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=2861c34d3eb6cea86cdc8
 
 
 #EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" ,beIN SPORTS 1
-https://tayland.canlimachd10.site/hls/bein-sports-1.m3u8
+https://varsports.zortstream.shop/600/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Spor",A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="https://htsolutions.at/wp-content/uploads/2022/02/Symbol_HT_Solutions_mint.png" group-title="Spor",HT SPOR HD
