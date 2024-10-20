@@ -42,7 +42,7 @@ http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-id="EuroStar" tvg-logo="https://www.eurostartv.com.tr/Content/img/eurostar-logo.png" group-title="Ulusal", Euro Star
-https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=E2wqRPyzsvgw58TvyGCpLQ&e=1727180814
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal", Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
