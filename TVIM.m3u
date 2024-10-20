@@ -134,20 +134,39 @@ http://vip.torktv.org:2095/live/grhn9626/gr00/6458.ts
 #EXTINF:-1 tvg-id="ORF1" tvg-logo="https://www.livestreamde.com/uploads/kanal/27739orf1-live.png" group-title="Austria", ORF1
 https://s6.hopslan.com/orfx12/tracks-v1a1/mono.m3u8?token=1631cbeb647bc350d799018b189da06931aa4840-adb51b69ff83b70c7d4991238a496800-1727111549-1727100749
 
+#EXTINF:-1 tvg-id="ORF1 HD" tvg-logo="https://www.livestreamde.com/uploads/kanal/27739orf1-live.png" group-title="Austria", ORF1 HD
+https://s.hdtvizlecanli.com/orf1a.m3u8
+
 #EXTINF:-1 tvg-id="ServusTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYwXRPF_0w0FPXcCzzgjOkhP4GVoX6pPFiNQ&s" group-title="Austria", Servus TV
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8?token=54468ece6447a75e85197a63a33f2e2af5f14ecd-1f4abbb0b4121d5e0d39fd577c4f4264-1727014974-1727004174
 
 #EXTINF:-1 tvg-id="OE24" tvg-logo="https://oesterreichprogramm.at/wp-content/uploads/2024/03/senderlogo-oesterreichprogramm-oe24.jpg" group-title="Austria", OE24
-https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-avc1_3400000=10003.m3u8
+https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-mp4a_128000_deu=20000.m3u8
+
 
 #EXTINF:-1 tvg-id="PRO7" tvg-logo="https://w7.pngwing.com/pngs/478/324/png-transparent-prosieben-2015-hd-logo.png" group-title="Austria", PRO7
-https://s6.hopslan.com/pro7x1/tracks-v1a1/mono.m3u8?token=465c561a5d467745722f8441e54b01244a3ba841-98b73cc8fdb4c3f6fc5f3d22ba40d685-1727111543-1727100743
+https://s.hdtvizlecanli.com/pro7a.m3u8
 
 #EXTINF:-1 tvg-id="RTL" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2021/06/rtl-logo.jpg" group-title="Austria", RTL
-https://s6.hopslan.com/rtlq222/tracks-v1a1/mono.m3u8?token=540e72f187b6d2d1ee632ab84b8423e59646c9ee-852e362aa002ebb8d16122a0e5ec0eed-1727111632-1727100832
+https://s.hdtvizlecanli.com/rtl.m3u8
+
+#EXTINF:-1 tvg-id="RTL2" tvg-logo="https://www.livestreamde.com/uploads/kanal/20570rtl-2-live.png" group-title="Austria", RTL2
+https://s.hdtvizlecanli.com/rtl2d.m3u8
 
 #EXTINF:-1 tvg-id="Kabel1" tvg-logo="https://seeklogo.com/images/K/kabel-eins-logo-80C1CE6F1D-seeklogo.com.png" group-title="Austria", Kabel 1
-https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8?token=92c47288e458b231ae9ea1893bb6d946708748e9-d15cfb02b404ae02d72c902da9bbc78b-1727111655-1727100855
+https://s.hdtvizlecanli.com/kabel1a.m3u8
+
+#EXTINF:-1 tvg-id="ZDF" tvg-logo="https://brandguide.zdf.de/pictures/447/2f865620700065672dbce9582f77ad83569beb7f/ZDF_DE_Logo_02.png" group-title="Austria", ZDF
+https://s.hdtvizlecanli.com/zdf.m3u8
+
+#EXTINF:-1 tvg-id="ZDFneo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ZDFneo.svg/1024px-ZDFneo.svg.png" group-title="Austria", ZDFneo
+https://stream.hdtvizlecanli.com/zdfneoger.m3u8
+
+#EXTINF:-1 tvg-id="PRO7max" tvg-logo="https://sender.epglogos.de/256x256/783.png" group-title="Austria", PRO7max
+https://stream.hdtvizlecanli.com/prosiebenmaxx.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/0a/Comedy_central_de.png" group-title="Austria", Comedy Central
+https://stream.hdtvizlecanli.com/comedyc1.m3u8
 
 #EXTINF:-1 tvg-id="SuperRTL" tvg-logo="https://www.digitalfernsehen.de/wp-content/uploads/2020/01/SuperRTL2.jpg" group-title="Austria", SuperRTL
 https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=2861c34d3eb6cea86cdc8978ce92347e93e73b9f-fa5ec4f51519501533148efc1a58caea-1727111544-1727100744
