@@ -15,7 +15,7 @@ http://stream.tvcdn.net/haber/a-haber.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="CNN TURK" tvg-logo="https://e7.pngegg.com/pngimages/145/808/png-clipart-logo-turkey-cnn-turk-font-cnn-games-text-logo-thumbnail.png" group-title="Ulusal", CNN TURK
-http://62.210.88.161/gin-dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Ulusal", NTV
 http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
