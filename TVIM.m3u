@@ -27,7 +27,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV
-http://116.202.238.88/ATV_TR/index.m3u8
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-logo="https://www.meinfernsehen.de/wp-content/uploads/2024/09/atv_avrupa.png" group-title="Ulusal", ATV Avrupa
 http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
