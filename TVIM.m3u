@@ -222,13 +222,7 @@ http://vip.torktv.org:2095/live/grhn9626/gr00/5865.ts
 
 
 #EXTINF:-1 tvg-id="TEST1"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST YU
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-
-
-EXTINF:0 tvg-id="TRT 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-1-tr.png?raw=true" ,TR: TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="trt 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-2-tr.png?raw=true" ,TR: TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 
 
