@@ -170,12 +170,6 @@ https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=2861c34d3eb6cea86cdc8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" ,beIN SPORTS 1
-https://varsports.zortstream.shop/600/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Spor",A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="https://htsolutions.at/wp-content/uploads/2022/02/Symbol_HT_Solutions_mint.png" group-title="Spor",HT SPOR HD
@@ -189,6 +183,8 @@ http://tv.challenge.tn:2052/live/49459551/72609676/266394.ts
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/800px-S_Sport_Plus_Logo.png" group-title="Spor",S SPORT 2
 http://vip.torktv.org:2095/live/grhn9626/gr00/6389.ts
 
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" ,beIN SPORTS 1
+https://varsports.zortstream.shop/600/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1
 https://tv.anystreamrectv18.xyz/live/bs1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1 ALTERNATİF
@@ -215,14 +211,15 @@ http://vip.torktv.org:2095/live/grhn9626/gr00/5865.ts
 
 
 
+#EXTINF:-1 tvg-id="TEST1"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST BEIN1
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/fDDyCCqnZ0boluE7sKHEhLVvHposSlROFVYypgnTmq03vbTs4iOMFAXVmF6PBd0lK08kLr2jqzSXlHydG94FVpZ3TaWylrNeFnYHFm_vftg4vg312YTwzG-oTYF6ScuqzYc9ZspHaxG5_ZHekHkHAXj6g64DQVBqdBIWXVpW6T_VrKNAp-gibPlQhJJykz-4/hls/index.m3u8
+XTINF:-1 tvg-id="TEST1"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST ORF1
+https://s5_.mysql2dumpcrypt.de/conv/go/orf1/chunks.m3u81a.doc
+#EXTINF:-1 tvg-id="TEST1"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST PRO7
+https://s7.2ix2-alternative.de/conv/go/prosieben/chunks.m3u81a.doc
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="TEST1"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST YU
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 
 
