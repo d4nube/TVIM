@@ -132,7 +132,10 @@ http://vip.torktv.org:2095/live/grhn9626/gr00/6458.ts
 
 
 
-
+#EXTINF:-1 tvg-id="FOX NEWS NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/480px-Fox_News_Channel_logo.svg.png" group-title="International", FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://media.info/l/o/1/1417.1443114332.png" group-title="International", France24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ORF1" tvg-logo="https://www.livestreamde.com/uploads/kanal/27739orf1-live.png" group-title="Austria", ORF1
 https://s6.hopslan.com/orfx12/tracks-v1a1/mono.m3u8?token=1631cbeb647bc350d799018b189da06931aa4840-adb51b69ff83b70c7d4991238a496800-1727111549-1727100749
 
