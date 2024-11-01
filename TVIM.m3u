@@ -56,7 +56,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal", TV8
 http://hw1.jemtv.com/app/tv8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV8,5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="Ulusal", TV85
+#EXTINF:-1 tvg-id="TV8.5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="Ulusal", TV85
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NOW TV" tvg-logo="https://seeklogo.com/images/N/now-tv-turkey-logo-984E6CE0AA-seeklogo.com.png" group-title="Ulusal", NOW TV  
@@ -92,7 +92,7 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 tvg-id="DMAX"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png"  group-title="Ulusal",DMAX
 http://stream.tvcdn.net/eglence/dmax.m3u8
 
-#EXTINF:-1 TRT Belgesel, tvg-logo="https://i.imgur.com/9lW0TV2.png" group-title="Ulusal", TRT Belgesel
+#EXTINF:-1 tvg-id="TRT Belgesel" tvg-logo="https://i.imgur.com/9lW0TV2.png" group-title="Ulusal", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRT Diyanet" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="Ulusal", TRT Diyanet
