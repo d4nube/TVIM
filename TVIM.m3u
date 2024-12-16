@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png?20170401134107" group-title="Ulusal", TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png?20170401134107" group-title="Ulusal", TRT1
+#EXTINF:-1 tvg-id="TRT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png?20170401134107" group-title="Ulusal", TRT1 alternatif
 https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/TRT_Haber_kurumsal_logo_%282013-2020%29.png" group-title="Ulusal", TRT Haber
@@ -16,8 +16,8 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1734403058/ei/
 #EXTINF:-1 tvg-id="Haber Turk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Ulusal", Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="CNN TURK" tvg-logo="https://e7.pngegg.com/pngimages/145/808/png-clipart-logo-turkey-cnn-turk-font-cnn-games-text-logo-thumbnail.png" group-title="Ulusal", CNN TURK
-http://stream.tvcdn.net/haber/cnn-turk.m3u8
+#EXTINF:-1 tvg-id="CNN TURK" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Ulusal", CNN TURK
+https://trn03.tulix.tv/gt-cnnturk/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Ulusal", NTV
 https://trn03.tulix.tv/gt-ntvtv/index.m3u8
@@ -120,6 +120,18 @@ https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
 https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tabii.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Trt-tabii-logo.png" group-title="Ulusal",TABİİ TV
 https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist/0.m3u8
+#EXTINF:-1 tvg-id="Sinematv1.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" group-title="Ulusal",SINEMA TV 1
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMzczNTA5NzQ5YmE3YzVmNTExYTU=
+#EXTINF:-1 tvg-id="Sinematv2.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" group-title="Ulusal",SINEMA TV 2
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg4NDc2NjA2ODEwOTZiMTNkNWM0Mg==
+#EXTINF:-1 tvg-id="Superturk.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" group-title="Ulusal",SINEMA TV 3
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMDg2MDI5MjgxMjEzMDUyODg1Yjc=
+#EXTINF:-1 tvg-id="Superturkmax.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" group-title="Ulusal",SINEMA TV 4
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1ODUzNTczMTc1NzQ1MTY1ODQ0YzY=
+
+
+
+
 
 
 
