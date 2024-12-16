@@ -188,9 +188,11 @@ http://tv.challenge.tn:2052/live/49459551/72609676/266394.ts
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/800px-S_Sport_Plus_Logo.png" group-title="Spor",S SPORT 2
 http://vip.torktv.org:2095/live/grhn9626/gr00/6389.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" ,beIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1
 https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1 ALTERNATİF
+https://us-cdn-1.varsportscdn1.lol/601/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Bein Sports",BEİN SPORTS 1 4K
 https://us-cdn-1.varsportscdn1.lol/601/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/BeIN_Sports_2_%282014%29.png" group-title="Spor",BEİN SPORTS 2
 https://it-cdn-1.varsportscdn1.lol/602/index.m3u8
@@ -208,29 +210,6 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5861.ts
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5864.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS MAX 2
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5865.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR HD" tvg-logo="" group-title="Spor",TABİİ SPOR HD
-https://SFTVrkiJ6Gb1UvNIrPbo8cSGY.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 1 HD" tvg-logo="" group-title="Spor",TABİİ SPOR 1 HD
-https://OMTfm36b1E2HpRagYzd5VwuE0.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 2 HD" tvg-logo="" group-title="Spor",TABİİ SPOR 2 HD
-https://7rXNdPk01F2bvoV7TwJltXJRd.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 3 HD" tvg-logo="" group-title="Spor",TABİİ SPOR 3 HD
-https://AjA9QKfqMvB0zghiXXrci30Rj.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 4 HD" tvg-logo="" group-title="Spor",TABİİ SPOR 4 HD
-https://ditvZPcGdZNWyfx6nCH4hhP69.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 5 HD" tvg-logo="" group-title="Spor",TABİİ SPOR 5 HD
-https://BHf7hmM8Y9RRHoFCa70k2nkF5.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6 HD" tvg-logo="" group-title="Spor",TABİİ SPOR 6 HD
-https://sSToObkb93QGEjJfkP4ny7nXD.medya.trt.com.tr/master_1080p.m3u8
-
-
-
-
-
-
 
 
 
