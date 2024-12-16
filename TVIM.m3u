@@ -11,7 +11,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-id="A Haber" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Ulusal", A HABER
-https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1734403058/ei/ko9gZ5iuG5icp-oP6oq66AQ/ip/172.71.160.85/id/erCmQucF6_U.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4g5lznl6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/x-caUCYCiK6LYvVose-4nCrbq5BsJGvUser2y0K_RobBpComO1aldENx4tJO3sw/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/2205000/met/1734381459,/mh/60/mip/95.223.78.84/mm/44/mn/sn-4g5lznl6/ms/lva/mv/m/mvi/3/pl/22/rmhost/rr1---sn-4g5lznl6.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51347747,51355912/mt/1734380922/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPcipY_l1cL2b4sog2CQ76eqre5PVOvjSTeELO-knfcaAiBsAfzmxF4GCVxnn0Qcf8DRoTlvf4mpHVpR4qPCmnmOpg%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/AGluJ3MwRgIhAKhziH3QqAlQ1X7hY_71g51VT_S6KPKH8JZDQY39kd62AiEAhbFhQhWtQKJy-CVKgiS-Y8SDa5PgDKtV4iIIXMBy4Zg%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="Haber Turk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Ulusal", Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
@@ -20,7 +20,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Ulusal", NTV
-http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
+https://trn03.tulix.tv/gt-ntvtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Haber Global" tvg-id="Haber_HaberGlobal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" ggroup-title="Ulusal",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
@@ -32,7 +32,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV
-http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ1NTkzMDQyNTU5NDFjZGVmNzA1Zg==
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-logo="https://www.meinfernsehen.de/wp-content/uploads/2024/09/atv_avrupa.png" group-title="Ulusal", ATV Avrupa
 http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
@@ -59,7 +59,7 @@ http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal", TV8
-http://hw1.jemtv.com/app/tv8/playlist.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-id="TV8.5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="Ulusal", TV85
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
@@ -94,6 +94,9 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 tvg-id="DMAX"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png"  group-title="Ulusal",DMAX
 http://stream.tvcdn.net/eglence/dmax.m3u8
 
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Ulusal",NAT GEO WİLD
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMjQxNjYxNjJmODM5MWE3Y2E2Mw==
+
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-logo="https://i.imgur.com/9lW0TV2.png" group-title="Ulusal", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
@@ -106,25 +109,25 @@ http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1 tvg-id="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Ulusal", TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRT Spor" tvg-logo="https://www.canlitv.me/poster/a-spor-izle-3.png" group-title="Ulusal", TRT Spor
-http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A Spor" tvg-logo="https://grafiport.com/logolar/2015/03/16/jpg/a-spor_byuek.jpg" group-title="Ulusal", A Spor
-http://stream.tvcdn.net/spor/a-spor.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="BluTV Play1" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg" group-title="Ulusal", BLU TV PLAY 1
 https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BluTv Play2" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg" group-title="Ulusal", BLU TV PLAY 2
 https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="tabii.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Trt-tabii-logo.png" group-title="Ulusal",TABİİ TV
+https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist/0.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="FOX NEWS NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/480px-Fox_News_Channel_logo.svg.png" group-title="International", FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+
 
 
 
@@ -165,13 +168,16 @@ https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=2861c34d3eb6cea86cdc8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Spor",A SPOR
-http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1734402693/ei/JY5gZ4bZFIGjp-oPsOzw0Qk/ip/172.71.160.85/id/7uBpwcn2ZZ0.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-4g5lzner.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/x-caUNLU1Zxft1XRADaqfKG72fuWx7M89PbtVGnHqIfljBWRyC1LEmxp8RSXg3M/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/2445000/met/1734381094,/mh/G6/mip/95.223.78.84/mm/44/mn/sn-4g5lzner/ms/lva/mv/m/mvi/1/pl/22/rmhost/rr4---sn-4g5lzner.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51347747,51355912/mt/1734380683/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgCW3S8d_rwSYZEC_C1bpOldxTSGpNI-v6-4Gs4ZzgcFoCIQCHg0ULcMg1nTm6zfrVFKJO_esvvqfvz0icbU5o478B9g%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/AGluJ3MwRQIhANJiXlWW1NK7q861eMvgDozbDEzhnOTrpjgfb-lzrdtpAiAqd18ZJ_mcVfrr6qx1MQd1oUqrU9qv1JyRc3X6XDCJvQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="https://htsolutions.at/wp-content/uploads/2022/02/Symbol_HT_Solutions_mint.png" group-title="Spor",HT SPOR HD
 
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1
 https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1 ALTERNATİF
 https://us-cdn-1.varsportscdn1.lol/601/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1 ALTERNATİF2
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTI0MjEwNTMwNDIwMzA5MGM1ZWI=
+
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1 4K
 https://us-cdn-1.varsportscdn1.lol/601/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/BeIN_Sports_2_%282014%29.png" group-title="Spor",BEİN SPORTS 2
