@@ -4,7 +4,8 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png?20170401134107" group-title="Ulusal", TRT1 alternatif
 https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/TRT_Haber_kurumsal_logo_%282013-2020%29.png" group-title="Ulusal", TRT Haber
+#EXTINF:-1 tvg-id="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/TRT_Haber_kurumsal_
+#EXTINF:-1 tvg-id="EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN SPORT UHD 1logo_%282013-2020%29.png" group-title="Ulusal", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xzdeObEEhjq5z8iZ3irMF97IMjVpk1m7Gg&s" group-title="Ulusal", TGRT Haber
@@ -68,7 +69,7 @@ http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/386
 http://185.234.111.229:8000/play/a01x
 
 #EXTINF:-1 tvg-id="NOW TV1" tvg-logo="https://seeklogo.com/images/N/now-tv-turkey-logo-984E6CE0AA-seeklogo.com.png" group-title="Ulusal", NOW TV
-http://116.202.238.88/FOXTV_TR/index.m3u8
+http://bossip.net:80/boranredbox/qsdqsdfgcvbcbcv/37061
 
 #EXTINF:-1 tvg-id="Kanal S" tvg-logo="https://www.kanals.com.tr/wp-content/uploads/2023/08/logo1.png" group-title="Ulusal", Kanal S
 https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w951132791.m3u8
@@ -227,10 +228,10 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664858?play_token=
 
 
-#EXTINF:-1 tvg-id="S SPORT HD" tvg-logo="http://xplatinmedia.com:8080/images/e9aa3dbf737113cf9e952c9cc60f7df6.png" group-title="Spor",S Sport 2 HD
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/546
 #EXTINF:-1 tvg-id="S Sport" tvg-logo="http://xplatinmedia.com:8080/images/18b220a9269c82c5512ad1c56f0c533e.png" group-title="Spor",S Sport
 http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/408
+#EXTINF:-1 tvg-id="S SPORT HD" tvg-logo="http://xplatinmedia.com:8080/images/e9aa3dbf737113cf9e952c9cc60f7df6.png" group-title="Spor",S Sport 2 HD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/546
 
 
 #EXTINF:-1 tvg-id="Tabii Spor 1ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor", Tabii Spor 1ⓧ FHD
@@ -245,6 +246,11 @@ http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172158
 http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172159
 #EXTINF:-1 tvg-id="Tabii Spor 6ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor", Tabii Spor 6ⓧ FHD
 http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172160
+
+
+
+
+
 
 
 
