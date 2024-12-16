@@ -41,7 +41,7 @@ http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV Turk" tvg-logo="https://logowik.com/content/uploads/images/253_showtv.jpg" group-title="Ulusal", Show TV Turk
-http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/49326
 
 #EXTINF:-1 tvg-id="STARTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2msNk41h0qZ8hrjpYAZfwzR4Du9J_EAFzg&s" group-title="Ulusal", STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
@@ -55,14 +55,17 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="Euro D" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal", Euro D
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 
-#EXTINF:-1 tvg-id="Beyaz TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062010/BEYAZ_TV_1.png?itok=UCx2VCQb " group-title="Ulusal", Beyaz TV 
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="Ulusal", Beyaz TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal", TV8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+http://ipmediatv.com/live/black_man_skype/844zghuZT74/e8223d1f-19de-46bb-ac5c-2edc36393f49.ts
 
 #EXTINF:-1 tvg-id="TV8.5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="Ulusal", TV85
-http://hw1.jemtv.com/app/tv85/playlist.m3u8
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/386
+
+#EXTINF:-1 tvg-id="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png" group-title="Ulusal",TV8 INT
+http://185.234.111.229:8000/play/a01x
 
 #EXTINF:-1 tvg-id="NOW TV1" tvg-logo="https://seeklogo.com/images/N/now-tv-turkey-logo-984E6CE0AA-seeklogo.com.png" group-title="Ulusal", NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
@@ -71,16 +74,19 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w951132791.m3u8
 
 #EXTINF:-1 tvg-id="TGRT Belgesel" tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="Ulusal", TGRT Belgesel
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
+http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 
 #EXTINF:-1 tvg-id="HalkTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKij0MdIilNP9YJ7SgbMtBtdEFVbbC0pFahA&s" group-title="Ulusal", Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 
 #EXTINF:-1 tvg-id="Sözcü TV" tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png" group-title="Ulusal", Sözcü TV
-https://proxy.canlitvplayer.com/szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 
 #EXTINF:-1 tvg-id="TVNET"tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png"  group-title="Ulusal",TV NET
 http://stream.tvcdn.net/haber/tvnet.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ulusal", Bloomberg HT
+http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Ulusal",TV 100
 http://stream.tvcdn.net/ulusal/tv-100.m3u8
@@ -104,7 +110,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 http://stream.tvcdn.net/dini/diyanet-tv.m3u8
 
 #EXTINF:-1 tvg-id="TRT 2" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Ulusal", TRT 2
-http://stream.tvcdn.net/eglence/trt-2.m3u8
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/49322
 
 #EXTINF:-1 tvg-id="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Ulusal", TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
@@ -147,16 +153,13 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://s6.hopslan.com/orfx12/tracks-v1a1/mono.m3u8?token=1631cbeb647bc350d799018b189da06931aa4840-adb51b69ff83b70c7d4991238a496800-1727111549-1727100749
 
 #EXTINF:-1 tvg-id="ServusTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYwXRPF_0w0FPXcCzzgjOkhP4GVoX6pPFiNQ&s" group-title="Austria", Servus TV
-https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8?token=54468ece6447a75e85197a63a33f2e2af5f14ecd-1f4abbb0b4121d5e0d39fd577c4f4264-1727014974-1727004174
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master_3392.m3u8
 
 #EXTINF:-1 tvg-id="OE24" tvg-logo="https://oesterreichprogramm.at/wp-content/uploads/2024/03/senderlogo-oesterreichprogramm-oe24.jpg" group-title="Austria", OE24
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
 
 #EXTINF:-1 tvg-id="PRO7" tvg-logo="https://w7.pngwing.com/pngs/478/324/png-transparent-prosieben-2015-hd-logo.png" group-title="Austria", PRO7
 https://s6.hopslan.com/pro7x1/tracks-v1a1/mono.m3u8?token=d655b773870c548f9c1161c5234279bd29f84836-152b0be3c64e7a108c0604d4cd7fc24c-1729478690-1729467890
-
-#EXTINF:-1 tvg-id="RTL" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2021/06/rtl-logo.jpg" group-title="Austria", RTL
-https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8?token=8753284c9506244a3a45b0b7f3addafa1619dd6a-8e3d712e79074a5452646ad2c3b6501b-1729478746-1729467946
 
 #EXTINF:-1 tvg-id="RTL2" tvg-logo="https://www.livestreamde.com/uploads/kanal/20570rtl-2-live.png" group-title="Austria", RTL2
 https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8?token=bd2f7b8430e91b49602cc0371e2abc72e6f21c1c-619888a3ce806412f8ad0a50ffcfd98c-1729478866-1729468066
@@ -170,11 +173,13 @@ https://s6.hopslan.com/zdf1111/tracks-v1a1/mono.m3u8?token=7b4b28be68c63443c52be
 #EXTINF:-1 tvg-id="PRO7max" tvg-logo="https://sender.epglogos.de/256x256/783.png" group-title="Austria", PRO7max
 https://s6.hopslan.com/pro7maxx1/tracks-v1a1/mono.m3u8?token=64c9951cfc060e82ed541b773f3d51a8c4915eda-3e2a1ad8dff170d6180a11e6c238d0b9-1729478774-1729467974
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/0a/Comedy_central_de.png" group-title="Austria", Comedy Central
-https://s6.hopslan.com/vivax1/tracks-a1/mono.m3u8?token=e0c370b11da1c5983d35a02ecf39faeff3830cbb-8ce17a17bc5c413b519a6052b9867efd-1729478819-1729468019
-
-#EXTINF:-1 tvg-id="SuperRTL" tvg-logo="https://www.digitalfernsehen.de/wp-content/uploads/2020/01/SuperRTL2.jpg" group-title="Austria", SuperRTL
+#EXTINF:-1 tvg-id="RTLSuper" tvg-logo="https://ais-akamai.rtl.de/ipd/69891/1320x0/image.jpg" group-title="Austria", RTL Super
 https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=2861c34d3eb6cea86cdc8978ce92347e93e73b9f-fa5ec4f51519501533148efc1a58caea-1727111544-1727100744
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://xplatinmedia.com:8080/images/ca1f519b85bf0a082050e9c58a5b159d.png" group-title="Austria", Cartoon Network
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/78832
+
+
 
 
 
@@ -182,6 +187,9 @@ https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=2861c34d3eb6cea86cdc8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Spor",A SPOR
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1734402693/ei/JY5gZ4bZFIGjp-oPsOzw0Qk/ip/172.71.160.85/id/7uBpwcn2ZZ0.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-4g5lzner.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/x-caUNLU1Zxft1XRADaqfKG72fuWx7M89PbtVGnHqIfljBWRyC1LEmxp8RSXg3M/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/2445000/met/1734381094,/mh/G6/mip/95.223.78.84/mm/44/mn/sn-4g5lzner/ms/lva/mv/m/mvi/1/pl/22/rmhost/rr4---sn-4g5lzner.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51347747,51355912/mt/1734380683/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgCW3S8d_rwSYZEC_C1bpOldxTSGpNI-v6-4Gs4ZzgcFoCIQCHg0ULcMg1nTm6zfrVFKJO_esvvqfvz0icbU5o478B9g%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/AGluJ3MwRQIhANJiXlWW1NK7q861eMvgDozbDEzhnOTrpjgfb-lzrdtpAiAqd18ZJ_mcVfrr6qx1MQd1oUqrU9qv1JyRc3X6XDCJvQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="https://htsolutions.at/wp-content/uploads/2022/02/Symbol_HT_Solutions_mint.png" group-title="Spor",HT SPOR HD
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1
 https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
@@ -211,13 +219,35 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5865.ts
 
 
 
+#EXTINF:-1 tvg-id="EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN SPORT UHD 1
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67559
+#EXTINF:-1 tvg-id="EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN SPORT FHD 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67559
+#EXTINF:-1 tvg-id="EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN SPORT UHD 2
+http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664858?play_token=
+
+
+#EXTINF:-1 tvg-id="S SPORT HD" tvg-logo="http://xplatinmedia.com:8080/images/e9aa3dbf737113cf9e952c9cc60f7df6.png" group-title="Spor",S Sport 2 HD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/546
+#EXTINF:-1 tvg-id="S Sport" tvg-logo="http://xplatinmedia.com:8080/images/18b220a9269c82c5512ad1c56f0c533e.png" group-title="Spor",S Sport
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/408
+
+
+#EXTINF:-1 tvg-id="Tabii Spor 1ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor", Tabii Spor 1ⓧ FHD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172155
+#EXTINF:-1 tvg-id="Tabii Spor 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor", Tabii Spor 2ⓧ FHD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172156
+#EXTINF:-1 tvg-id="Tabii Spor 3ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor",Tabii Spor 3ⓧ FHD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172157
+#EXTINF:-1 tvg-id="Tabii Spor 4ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor",Tabii Spor 4ⓧ FHD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172158
+#EXTINF:-1 tvg-id="Tabii Spor 5ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor", Tabii Spor 5ⓧ FHD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172159
+#EXTINF:-1 tvg-id="Tabii Spor 6ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor", Tabii Spor 6ⓧ FHD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172160
 
 
 
-#EXTINF:-1 tvg-id="TEST1"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST BEIN1
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/fDDyCCqnZ0boluE7sKHEhLVvHposSlROFVYypgnTmq03vbTs4iOMFAXVmF6PBd0lK08kLr2jqzSXlHydG94FVpZ3TaWylrNeFnYHFm_vftg4vg312YTwzG-oTYF6ScuqzYc9ZspHaxG5_ZHekHkHAXj6g64DQVBqdBIWXVpW6T_VrKNAp-gibPlQhJJykz-4/hls/index.m3u8
-XTINF:-1 tvg-id="TEST1"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST ORF1
-https://s5_.mysql2dumpcrypt.de/conv/go/orf1/chunks.m3u81a.doc
 #EXTINF:-1 tvg-id="TEST1"tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/galatasaray-logo-0.png"  group-title="TEST",TEST PRO7
 https://s7.2ix2-alternative.de/conv/go/prosieben/chunks.m3u81a.doc
 
