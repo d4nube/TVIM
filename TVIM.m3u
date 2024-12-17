@@ -5,7 +5,6 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/TRT_Haber_kurumsal_
-#EXTINF:-1 tvg-id="EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN SPORT UHD 1logo_%282013-2020%29.png" group-title="Ulusal", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xzdeObEEhjq5z8iZ3irMF97IMjVpk1m7Gg&s" group-title="Ulusal", TGRT Haber
