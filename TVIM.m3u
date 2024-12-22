@@ -187,7 +187,7 @@ http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/78832
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Spor",A SPOR
 https://c.fulltvizle.com/aspor/index.m3u8
 #EXTINF:-1 tvg-id="TRTSpor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Spor",TRT SPOR
-https://c.fulltvizle.com/trtspor/index.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1
