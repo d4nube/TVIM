@@ -11,7 +11,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-id="A Haber" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Ulusal", A HABER
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/93776
+https://c.fulltvizle.com/ahaber/index.m3u8
 
 #EXTINF:-1 tvg-id="Haber Turk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Ulusal", Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
@@ -68,7 +68,7 @@ http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/386
 http://185.234.111.229:8000/play/a01x
 
 #EXTINF:-1 tvg-id="NOW TV1" tvg-logo="https://seeklogo.com/images/N/now-tv-turkey-logo-984E6CE0AA-seeklogo.com.png" group-title="Ulusal", NOW TV
-http://bossip.net:80/boranredbox/qsdqsdfgcvbcbcv/37061
+https://c.fulltvizle.com/fox/index.m3u8
 
 #EXTINF:-1 tvg-id="Kanal S" tvg-logo="https://www.kanals.com.tr/wp-content/uploads/2023/08/logo1.png" group-title="Ulusal", Kanal S
 https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w951132791.m3u8
@@ -186,6 +186,8 @@ http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/78832
 
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Spor",A SPOR
 https://tv.arectv3.xyz/live/aspor.m3u8
+#EXTINF:-1 tvg-id="TRTSpor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Spor",TRT SPOR
+https://c.fulltvizle.com/trtspor/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1
