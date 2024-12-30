@@ -62,7 +62,7 @@ http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal", TV8
-http://ipmediatv.com/live/black_man_skype/844zghuZT74/e8223d1f-19de-46bb-ac5c-2edc36393f49.ts
+http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6640
 
 #EXTINF:-1 tvg-id="TV8.5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="Ulusal", TV85
 http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/386
