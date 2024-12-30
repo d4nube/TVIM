@@ -53,7 +53,7 @@ http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D alt" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal", Kanal D alternatif
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
+http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/120548
 
 #EXTINF:-1 tvg-id="Euro D" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal", Euro D
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
