@@ -11,7 +11,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-id="A Haber" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Ulusal", A HABER
-https://c.fulltvizle.com/ahaber/index.m3u8
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/390
 
 #EXTINF:-1 tvg-id="Haber Turk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Ulusal", Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
@@ -32,7 +32,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV
-https://c.fulltvizle.com/aytv/index.m3u8
+https://tgn.bozztv.com/trn03/gt-atv-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-logo="https://www.meinfernsehen.de/wp-content/uploads/2024/09/atv_avrupa.png" group-title="Ulusal", ATV Avrupa
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/50916.ts
