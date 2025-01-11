@@ -34,6 +34,9 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV
 https://tgn.bozztv.com/trn03/gt-atv-tv/index.m3u8
 
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV alternatif 
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/621
+
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-logo="https://www.meinfernsehen.de/wp-content/uploads/2024/09/atv_avrupa.png" group-title="Ulusal", ATV Avrupa
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/50916.ts
 
