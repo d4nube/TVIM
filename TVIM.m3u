@@ -114,8 +114,8 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 tvg-id="DMAX"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png"  group-title="Ulusal",DMAX
 http://stream.tvcdn.net/eglence/dmax.m3u8
 
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Ulusal",NAT GEO WİLD
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMjQxNjYxNjJmODM5MWE3Y2E2Mw==
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Ulusal",NAT GEO 
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/397
 
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-logo="https://i.imgur.com/9lW0TV2.png" group-title="Ulusal", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
@@ -138,16 +138,13 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BluTv Play2" tvg-logo="https://logowik.com/content/uploads/images/blutv2417.jpg" group-title="Ulusal", BLU TV PLAY 2
 https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tabii.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Trt-tabii-logo.png" group-title="Ulusal",TABİİ TV
-https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist/0.m3u8
-#EXTINF:-1 tvg-id="Sinematv1.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" group-title="Ulusal",SINEMA TV 1
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMzczNTA5NzQ5YmE3YzVmNTExYTU=
-#EXTINF:-1 tvg-id="Sinematv2.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" group-title="Ulusal",SINEMA TV 2
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg4NDc2NjA2ODEwOTZiMTNkNWM0Mg==
-#EXTINF:-1 tvg-id="Superturk.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" group-title="Ulusal",SINEMA TV 3
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMDg2MDI5MjgxMjEzMDUyODg1Yjc=
-#EXTINF:-1 tvg-id="Superturkmax.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" group-title="Ulusal",SINEMA TV 4
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1ODUzNTczMTc1NzQ1MTY1ODQ0YzY=
+
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 1 HD" tvg-name="TR | beIN Box Office 1ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/dfe4ab1dda798d64c90ff4ee3bf6cc7a.png" group-title="|TR| SINEMA",TR | beIN Box Office 1ⓧ FHD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/62658
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 2 HD" tvg-name="TR | beIN Box Office 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/664faecc2a4a66f694c8e590dd7b6346.png" group-title="|TR| SINEMA",TR | beIN Box Office 2ⓧ FHD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/62659
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 3 HD" tvg-name="TR | beIN Box Office 3ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/911e38be5b6c7ba8e2e5b468dc43e1c1.png" group-title="|TR| SINEMA",TR | beIN Box Office 3ⓧ FHD
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/62660
 
 
 
