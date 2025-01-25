@@ -203,59 +203,38 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1
 https://t6co.ragivccc52x.workers.dev/list/yayinstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1 ALTERNATİF
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor" ,BeIN Sports UHD 1
+http://xplatinmedia.com:8080/live/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/535.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor" ,BeIN Sports FHD 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111898
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1 ALTERNATİF2
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor" ,BeIN Sports HD 1
 http://line.fastviewtv.com/HiFll2XSogYRvaj/KOBb78oDBd/664785?play_token=
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor" ,BeIN Sports 4K
+http://xplatinmedia.com:8080/live/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/534.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor" ,BeIN Sports FEED1
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84890&t=live&f=ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor" ,BeIN Sports FEED2
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1 4K
-https://us-cdn-1.varsportscdn1.lol/601/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/BeIN_Sports_2_%282014%29.png" group-title="Spor",BEİN SPORTS 2
-https://it-cdn-1.varsportscdn1.lol/602/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_3_France.png" group-title="Spor",BEİN SPORTS 3
-https://it-cdn-1.varsportscdn1.lol/603/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" group-title="Spor",BEİN SPORTS 1 HD
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5849.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="Spor",BEİN SPORTS 2 HD
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/104794.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_3_France.png" group-title="Spor",BEİN SPORTS 3 HD
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5858.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 4 HD
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5861.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS MAX 1
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5864.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS MAX 2
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5865.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="Spor",BeIN Sports UHD 2
+http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/539
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="Spor",BeIN Sports FHD 2
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="Spor",BeIN Sports UHD 3
+https://jyayintv33.site/cdn/bein_sports_3_hd/main.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="Spor",BeIN Sports FHD 3
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="Spor", BeIN Sports UHD 4
+https://jyayintv33.site/cdn/bein_sports_4_hd/main.m3u8
 
-
-
-#EXTINF:-1 tvg-id="EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN SPORT UHD 1
-http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67559
-#EXTINF:-1 tvg-id="EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN SPORT FHD 1
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67559
-#EXTINF:-1 tvg-id="EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN SPORT UHD 2
-http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664858?play_token=
-
-
-#EXTINF:-1 tvg-id="S Sport" tvg-logo="http://xplatinmedia.com:8080/images/18b220a9269c82c5512ad1c56f0c533e.png" group-title="Spor",S Sport
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/408
-#EXTINF:-1 tvg-id="S SPORT HD" tvg-logo="http://xplatinmedia.com:8080/images/e9aa3dbf737113cf9e952c9cc60f7df6.png" group-title="Spor",S Sport 2 HD
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/546
-
-
-#EXTINF:-1 tvg-id="Tabii Spor 1ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor", Tabii Spor 1ⓧ FHD
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172155
-#EXTINF:-1 tvg-id="Tabii Spor 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor", Tabii Spor 2ⓧ FHD
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172156
-#EXTINF:-1 tvg-id="Tabii Spor 3ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor",Tabii Spor 3ⓧ FHD
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172157
-#EXTINF:-1 tvg-id="Tabii Spor 4ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor",Tabii Spor 4ⓧ FHD
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172158
-#EXTINF:-1 tvg-id="Tabii Spor 5ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor", Tabii Spor 5ⓧ FHD
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172159
-#EXTINF:-1 tvg-id="Tabii Spor 6ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/41c59e7d0da6c09268991855e867e42c.png" group-title="Spor", Tabii Spor 6ⓧ FHD
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/172160
-
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="Spor",BEIN MAX 1 UHD
+http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664810?play_token=
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="Spor",BEIN MAX 1 FHD
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx1/805/playlist.m3u8
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="Spor",BEIN MAX 2 UHD
+http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664812?play_token=
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="Spor",BEIN MAX 2 FHD
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx2/806/playlist.m3u8
 
 
 
