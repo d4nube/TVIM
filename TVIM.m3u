@@ -201,7 +201,7 @@ https://c.fulltvizle.com/aspor/index.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEİN Spor 1
 https://t6co.ragivccc52x.workers.dev/list/yayinstar.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor" ,BeIN Sports UHD 1
 http://xplatinmedia.com:8080/live/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/535.ts
