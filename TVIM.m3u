@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TRT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png?20170401134107" group-title="Ulusal", TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png?20170401134107" group-title="Ulusal", TRT1 alternatif
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/623
+http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/TRT_Haber_kurumsal_logo_%282013-2020%29.png" group-title="Ulusal", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
@@ -35,7 +35,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+http://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV alternatif 
 https://c.fulltvizle.com/aytv/index.m3u8
@@ -57,10 +57,10 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal", Kanal D
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/120548
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-id="Kanal D alt" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal", Kanal D alternatif
-https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
+http://89.187.191.41/Kanal-D-HD-TR/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Euro D" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal", Euro D
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
@@ -82,7 +82,7 @@ https://c.fulltvizle.com/fox/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NOW TV1" tvg-logo="https://seeklogo.com/images/N/now-tv-turkey-logo-984E6CE0AA-seeklogo.com.png" group-title="Ulusal", NOW TV alt.
-http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/22681
+http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Kanal S" tvg-logo="https://www.kanals.com.tr/wp-content/uploads/2023/08/logo1.png" group-title="Ulusal", Kanal S
 https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w951132791.m3u8
