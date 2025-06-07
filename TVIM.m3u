@@ -51,13 +51,13 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/49326
 
 #EXTINF:-1 tvg-id="STARTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2msNk41h0qZ8hrjpYAZfwzR4Du9J_EAFzg&s" group-title="Ulusal", STAR TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+https://dogus-live.daioncdn.net:443/startv/startv.m3u8
 
 #EXTINF:-1 tvg-id="EuroStar" tvg-logo="https://www.eurostartv.com.tr/Content/img/eurostar-logo.png" group-title="Ulusal", Euro Star
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal", Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
+https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D alt" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal", Kanal D alternatif
 http://89.187.191.41/Kanal-D-HD-TR/tracks-v1a1/mono.ts.m3u8
