@@ -11,7 +11,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-id="A Haber" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Ulusal", A HABER
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_haber.m3u8
+http://116.202.238.88/AHABER_TR/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Haber Turk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Ulusal", Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
