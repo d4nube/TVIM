@@ -20,7 +20,7 @@ http://116.202.238.88/AHABER_TR/tracks-v1a1/index.m3u8
 https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Ulusal", NTV
-http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Haber Global" tvg-id="Haber_HaberGlobal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" ggroup-title="Ulusal",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
@@ -37,10 +37,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal", ATV alternatif 
 http-referrer=https://trgoals1333.xyz/
 https://e0.4928d54d950ee70q5.lat/yayinatv.m3u8
-
-
-#EXTINF:-1 tvg-id="ATV Avrupa" tvg-logo="https://www.meinfernsehen.de/wp-content/uploads/2024/09/atv_avrupa.png" group-title="Ulusal", ATV Avrupa
-http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/50916.ts
 
 #EXTINF:-1 tvg-id="ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png?20200829232440" group-title="Ulusal", Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
