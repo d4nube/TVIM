@@ -10,11 +10,11 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xzdeObEEhjq5z8iZ3irMF97IMjVpk1m7Gg&s" group-title="Ulusal", TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-id="A Haber" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Ulusal", A HABER
-http://116.202.238.88/AHABER_TR/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="Haber Turk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Ulusal", Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="A Haber" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Ulusal", A HABER
+http://116.202.238.88/AHABER_TR/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN TURK" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Ulusal", CNN TURK
 https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
