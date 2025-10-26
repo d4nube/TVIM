@@ -54,8 +54,7 @@ https://dogus-live.daioncdn.net:443/startv/startv.m3u8
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal", Kanal D
-https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
-
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Euro D" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal", Kanal D altern.
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_360p.m3u8
