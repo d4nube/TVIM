@@ -56,8 +56,8 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal", Kanal D
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Euro D" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal", Kanal D altern.
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_360p.m3u8
+#EXTINF:-1 tvg-id="Euro D" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal", Kanal D alternatif
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_360p-1761519040000.ts
 
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="Ulusal", Beyaz TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
